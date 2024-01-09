@@ -1,5 +1,5 @@
 # Utopik Sandcastle
-Utopik Sandcastle is a project to help to learn new development technologies.
+Utopik Sandcastle is a project to help to learn new development technologies like microservices, microfrontends, event-driven architecture, etc.
 
 [View the documentation](https://utopiksandcastle.github.io/)
 
